@@ -5,6 +5,6 @@ int main()
 {
      clrscr();
      cout<<"Hello World";
-     Cout<<" I am c++ programmer"
+     Cout<<" I am c++ programmer";
      getch();
 }
